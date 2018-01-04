@@ -11,3 +11,4 @@ Git controlled student dropboxes.
 		- Your personal website if you have one
 		- A goal you have for this class
 	3. Save the "README.md" file inside your personal dropbox
+- See the lastname\_firstname example for help
