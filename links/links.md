@@ -1,6 +1,6 @@
 Links
 =====
 
-- www.stackoverflow.com
-- www.github.com
+- [StackOverflow](www.stackoverflow.com)
+- [GitHub](www.github.com)
 
