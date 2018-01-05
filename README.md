@@ -1,7 +1,9 @@
-datasci assignments
+datasci_assignments
 ===================
 
-# Assignment 1
+Programming assignments for Data Science for Linguistics.
+
+## Assignment 1
 
 **Assigned**: Week 1  
 **Due**: Monday, 1/22 before 10pm  
