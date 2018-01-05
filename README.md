@@ -19,7 +19,7 @@ finally, submit a pull request to merge your contribution with the master repo
 
 ### Instructions
 
-1. Fork this repo if you have not already done so.
+1. If you have not already done so, fork this repo and clone it to your computer.
 2. In your local copy create a personal 'dropbox'
     1. create an empty folder named "lastname\_firstname" (ex. 
     casillas\_joseph). Put it inside ```misc > students```.
@@ -29,7 +29,7 @@ finally, submit a pull request to merge your contribution with the master repo
         - Your email
         - Your personal website if you have one
         - A goal you have for this class
-3. Create another folder. Name is ```summaries``` and place it inside your 
+3. Create another folder. Name it ```summaries``` and place it inside your 
 personal dropbox folder. Next, read Chapter 1 of R4DS. Create a file called 
 **rfds\_ch1\_summary.md** and write a 4 sentence summary about the chapter. 
 Save this file in ```summaries``` inside your personal dropbox (the 
@@ -41,6 +41,22 @@ you read (nothing to turn in).
 	2. a README.md file
     3. a summaries folder (inside your dropbox)
 	4. your R4DS ch. 1 summary (r4ds_ch1_summary.md)
+
+### Evaluation
+
+This is programming assignment 1 of 5. It is worth 10 of the 50 possible 
+points. In order to receive full credit you must complete steps 1-5 above 
+and follow all the instructions. 
+
+|                Task                | Points |
+| :--------------------------------- | -----: |
+| Create a dropbox folder            |      1 |
+| Include a README.md                |      1 |
+| Create a summaries folder          |      1 |
+| Include a R4DS Ch. 1 summary       |      2 |
+| Successfully submit a pull request |      5 |
+| **Total**                          |     10 |
+
 
 ### Tips
 
