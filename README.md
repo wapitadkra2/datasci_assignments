@@ -33,6 +33,7 @@ you read.
 
 This is how the file structure currently looks:
 
+```
 datasci_assignments
                   ├── README.md
                   └── misc
@@ -44,13 +45,16 @@ datasci_assignments
                               ├── README.md
                               └── summaries
                                   └── r4ds_ch1_summary.md
+```
 
 Take a look inside the ```lastname\_firstname``` folder if you need an example. 
 Your personal dropbox should look exactly the same, but with your information, 
 summaries, etc. In other words, you will add a folder inside ```students``` 
 that looks like this (I am using my name, you will use your name): 
 
+```
 casillas_joseph
           ├── README.md
           └── summaries
               └── r4ds_ch1_summary.md
+```
