@@ -3,7 +3,7 @@ datasci assignments
 
 Assignments and git testing
 
-# Task 1
+# Assignment 1
 
 - Fork this repo
 - Make a contribution 
