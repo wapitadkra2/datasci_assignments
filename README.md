@@ -5,6 +5,8 @@ Programming assignments for Data Science for Linguistics.
 
 ## Assignment 1
 
+**Topic**: GitHub
+
 ### Overview
 
 In this assignment you will practice the basics of working with project repos
@@ -36,7 +38,9 @@ Save this file in ```summaries``` inside your personal dropbox (the
 lastname\_firstname folder you just made). 
 4. Read QML Ch. 1 and 2 (pp. 1-57). Do the R examples included in the text as
 you read (nothing to turn in).
-5. Submit a pull-request. It should include the following...
+5. Commit the changes to your upstream branch. Check your repo on GitHun to 
+make sure it worked, and then submit a pull-request. It should include the 
+following...
 	1. your dropbox folder (lastname\_firstname)
 	2. a README.md file
     3. a summaries folder (inside your dropbox)
@@ -64,7 +68,7 @@ This is how the file structure currently looks:
 
 ```
 datasci_assignments
-       |
+       │
        ├── README.md
        └── misc
            ├── links
@@ -84,7 +88,7 @@ that looks like this (I am using my name, you will use your name):
 
 ```
 casillas_joseph
-        |
+        │
         ├── README.md
         └── summaries
             └── r4ds_ch1_summary.md
